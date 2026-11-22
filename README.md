@@ -1,1 +1,1 @@
-!![](assets/profile.gif)
+<img src="assets/terminal.png" width="100%">
